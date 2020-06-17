@@ -1,6 +1,6 @@
-# DCGANs (Deep Convolutional Generative Adversarial Networks) implemented with Keras
+# DCGANs (Deep Convolutional Generative Adversarial Networks) 
 
-DCGAN Projects Repository.
+DCGAN Projects Repository implemented using Keras.
 
 ### 1. GAN trained on CIFAR Dataset 
 [Link to implementation](https://github.com/sumansid/DCGANs/tree/master/CIFAR%20GAN)
