@@ -1,5 +1,5 @@
 # DCGANs
-DCGAN Projects Repository
+DCGAN Projects Repository with pretrained models
 
 ### 1. GAN trained on CIFAR Dataset 
 [Link to implementation](https://github.com/sumansid/DCGANs/tree/master/CIFAR%20GAN)
