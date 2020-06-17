@@ -9,4 +9,6 @@ DCGAN Projects Repository
 ![download (5)](https://user-images.githubusercontent.com/53033648/84828796-9f6fb280-aff4-11ea-9a2f-ff0c892b857e.png)
 ![download (6)](https://user-images.githubusercontent.com/53033648/84828799-a0084900-aff4-11ea-817a-a588a6743386.png)
 
+### 2. CELEB A Face GAN
+
 
