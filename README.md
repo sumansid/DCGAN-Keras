@@ -12,3 +12,8 @@ DCGAN Projects Repository with pretrained models
 ### 2. CELEB A Face GAN
 
 
+### Sources : 
+
+[https://www.kaggle.com/jessicali9530/celeba-dataset](https://www.kaggle.com/jessicali9530/celeba-dataset)
+
+
