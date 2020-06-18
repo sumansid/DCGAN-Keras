@@ -15,7 +15,8 @@ DCGAN Projects Repository implemented using Keras.
 [Link to implementation](https://github.com/sumansid/DCGANs/tree/master/Celeb%20Face%20GAN)
 
 #### Results 
-![caaf501f-195e-445a-a244-288c0f6a744e](https://user-images.githubusercontent.com/53033648/85052673-60ae3980-b167-11ea-9627-bfda2795a7c2.png)
+![final_interpolation](https://user-images.githubusercontent.com/53033648/85073689-3b322780-b189-11ea-94c5-853cf57e78ea.png)
+
 
 
 
