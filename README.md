@@ -16,7 +16,8 @@ DCGAN Projects Repository implemented using Keras.
 
 #### Results 
 ![final_interpolation](https://user-images.githubusercontent.com/53033648/85073689-3b322780-b189-11ea-94c5-853cf57e78ea.png)
-![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/53033648/85074921-5a31b900-b18b-11ea-8a09-ba7802b07e1d.gif)
+![ezgif com-crop](https://user-images.githubusercontent.com/53033648/85082100-e21fbf00-b19b-11ea-8904-8f388c1ef46c.gif)
+
 
 
 
