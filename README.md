@@ -19,6 +19,13 @@ DCGAN Projects Repository implemented using Keras.
 ![ezgif com-crop](https://user-images.githubusercontent.com/53033648/85082100-e21fbf00-b19b-11ea-8904-8f388c1ef46c.gif)
 
 
+## GAN Evaluation : 
+
+There are several ways to evaluate the performance of GANs, however there is not a single method that captures all the aspects. Most commonly used methods include : 
+
+### 1. Inception Score : 
+
+[Link to implementation](https://github.com/sumansid/DCGANs/tree/master/Celeb%20Face%20GAN)
 
 
 
