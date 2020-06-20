@@ -33,7 +33,7 @@ There are several ways to evaluate the performance of GANs, however there is not
 
 
 
-### Sources : 
+## Sources : 
 
 [https://www.kaggle.com/jessicali9530/celeba-dataset](https://www.kaggle.com/jessicali9530/celeba-dataset)
 
