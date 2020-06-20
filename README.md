@@ -36,6 +36,7 @@ There are several ways to evaluate the performance of GANs, however there is not
 ## Sources : 
 
 [Dataset](https://www.kaggle.com/jessicali9530/celeba-dataset)
+
 [Reference](https://machinelearningmastery.com/generative_adversarial_networks/)
 
 
