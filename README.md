@@ -27,7 +27,9 @@ There are several ways to evaluate the performance of GANs, however there is not
 
 [Link to implementation](https://github.com/sumansid/DCGANs/tree/master/Celeb%20Face%20GAN)
 
-### 2. Frechet Inception Distance 
+### 2. Frechet Inception Distance (FID) Score : 
+
+[Link to implementation](https://github.com/sumansid/DCGANs/tree/master/Celeb%20Face%20GAN)
 
 
 
