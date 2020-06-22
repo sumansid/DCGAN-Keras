@@ -22,7 +22,8 @@ DCGAN Projects Repository implemented using Keras.
 [Link to implementation]()
 
 #### Results
-
+![generated_fig_015](https://user-images.githubusercontent.com/53033648/85328163-3d082d80-b49e-11ea-9810-016008c401b4.png)
+![generated_fig_020](https://user-images.githubusercontent.com/53033648/85328164-3d082d80-b49e-11ea-910b-27d1942c2c0a.png)
 
 
 ## GAN Evaluation : 
