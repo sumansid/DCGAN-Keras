@@ -39,4 +39,6 @@ There are several ways to evaluate the performance of GANs, however there is not
 
 [Reference](https://machinelearningmastery.com/generative_adversarial_networks/)
 
+[Gan Hacks - Soumith Chintala](https://github.com/soumith/ganhacks)
+
 
