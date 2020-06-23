@@ -21,6 +21,7 @@ DCGAN Projects Repository implemented using Keras.
 ### 3. Fashion MNIST GAN
 [Link to implementation](https://github.com/sumansid/DCGAN-Keras/blob/master/Fashion%20MNIST/Fashion_MNIST_GAN.ipynb)
 
+[Pretrained-model](https://github.com/sumansid/DCGAN-Keras/blob/master/Fashion%20MNIST/generator_model_100_fashion.h5)
 #### Results
 ![generated_fig_015](https://user-images.githubusercontent.com/53033648/85328163-3d082d80-b49e-11ea-9810-016008c401b4.png)
 ![generated_fig_020](https://user-images.githubusercontent.com/53033648/85328164-3d082d80-b49e-11ea-910b-27d1942c2c0a.png)
